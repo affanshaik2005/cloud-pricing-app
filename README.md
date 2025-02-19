@@ -49,14 +49,3 @@ Once both the client and server applications are running, you can access the Clo
 
 ## Considerations
 This project is designed to be a simple yet effective solution for comparing cloud instances. Future enhancements could include support for reserved instances and additional cloud providers.
-
-
-
-| Sequence              | OR147948.1_16171-20247 | MH734115.1_21431-25492 | DQ231462.2 | MW173324.1 | NC_045512.2_21563-25384 | MN996532.2_21560-25369 |
-|------------------------|------------------------|------------------------|------------|------------|------------------------|------------------------|
-| OR147948.1_16171-20247 | 100.00                 | 42.20                  | 42.13      | 49.37      | 42.13                  | 41.52                  |
-| MH734115.1_21431-25492 | 42.20                  | 100.00                 | 47.52      | 41.10      | 47.46                  | 46.59                  |
-| DQ231462.2             | 42.13                  | 47.52                  | 100.00     | 68.35      | 73.60                  | 73.43                  |
-| MW173324.1             | 49.37                  | 41.10                  | 68.35      | 100.00     | 83.54                  | 78.48                  |
-| NC_045512.2_21563-25384| 42.13                  | 47.46                  | 73.60      | 83.54      | 100.00                 | 93.12                  |
-| MN996532.2_21560-25369 | 41.52                  | 46.59                  | 73.43      | 78.48      | 93.12                  | 100.00                 |
